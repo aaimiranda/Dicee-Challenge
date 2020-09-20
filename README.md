@@ -29,4 +29,4 @@ To run this project, simply copy all files and directories to the same directory
 ```
 
 ## Screenshot
-![Alt text](/Dicee-screenShot.png?raw=true "Dicee")
+![Alt text](/images/Dicee-screenShot.png?raw=true "Dicee")
